@@ -23,5 +23,5 @@ I'm a creative problem solver who loves trying out new technologies and constant
 
 📧 **Email:** [niko.pippuri@gmail.com](mailto:niko.pippuri@gmail.com)  
 🌐 **Portfolio:** [https://comming-soon.dev](https://comming-soon.dev)  
-💬 **LinkedIn:** [www.linkedin.com/in/niko-pippuri](www.linkedin.com/in/niko-pippuri)  
+💬 **LinkedIn:** [https://www.linkedin.com/in/niko-pippuri](https://www.linkedin.com/in/niko-pippuri)  
  
