@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello, I'm Niko Pippuri!
 
-<!--
-**nikopippuri/nikopippuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A software developer, currently pursuing my bachelor's degree in computer science.
+I'm a creative problem solver who loves trying out new technologies and constantly keeps on learning new things and skills.
 
-Here are some ideas to get you started:
+## 💻 Some of My Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  **Programming Languages:** C, Python , JavaScript 
+-  **Frontend:** React, QT, Tailwind CSS  
+-  **Backend:** Node.js, Flask
+-  **Game Development:** Unity, Unreal Engine 
+
+## 💾 My Latest Projects
+
+- **[ATM project](https://github.com/nikopippuri/atm-project)** – This was a school project where we built a ATM system using modern technologies.  
+- **[Arcade Game Project](https://github.com/nikopippuri/arcade-game-project)** – A arcade game built with arduino.
+
+## 📊  GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikopippuri&show_icons=true&theme=gruvbox)
+
+## 🔎 Where to Find Me?
+
+📧 **Email:** [niko.pippuri@gmail.com](mailto:niko.pippuri@gmail.com)  
+🌐 **Portfolio:** [https://comming-soon.dev](https://comming-soon.dev)  
+💬 **LinkedIn:** [www.linkedin.com/in/niko-pippuri](www.linkedin.com/in/niko-pippuri)  
+ 
