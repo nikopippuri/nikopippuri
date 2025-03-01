@@ -22,6 +22,6 @@ I'm a creative problem solver who loves trying out new technologies and constant
 ## 🔎 Where to Find Me?
 
 📧 **Email:** [niko.pippuri@gmail.com](mailto:niko.pippuri@gmail.com)  
-🌐 **Portfolio:** [https://comming-soon.dev](https://comming-soon.dev)  
+🌐 **Portfolio:** [https://nikopippuri.github.io/)  
 💬 **LinkedIn:** [https://www.linkedin.com/in/niko-pippuri](https://www.linkedin.com/in/niko-pippuri)  
  
